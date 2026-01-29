@@ -1,2 +1,2 @@
 # testGit1
-Testing Github
+This repositorie is for testing the basics of using github.
